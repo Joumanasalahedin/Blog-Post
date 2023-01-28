@@ -1,3 +1,5 @@
-## Digital Health
+---
+title: Digital Health Blog
+---
 
-Digital Health Blog Post
+#Looking into Electronic Health Records
