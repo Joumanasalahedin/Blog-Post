@@ -1,7 +1,3 @@
----
-title: Digital Health Blog
----
-
 # The Digitalization of Patient Medical Records
 
 ## Breaking It Down
