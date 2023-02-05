@@ -6,7 +6,7 @@
 
 <figure>
   <img src="images/EHR.jpg" alt="EHR">
-  <figcaption>Image courtesy of GHP</figcaption>
+  <figcaption>Image courtesy of GHP</figcaption> [^6]
 </figure>
 
   However, Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) are terms that have been used interchangeably, thus the main difference isn’t taken into consideration. During a patient’s visit, a chart is created to document their symptoms, vitals, any results for tests conducted, and any medical history relevant. Any medication prescribed is also included in the patient’s chart and it stays within the organization. A digital version of this chart is an Electronic Health Record and it’s stored on the medical institution’s computer system. [^3]
