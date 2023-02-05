@@ -45,3 +45,5 @@ The German Social Security Code (§ 291a SGB V) requests that “data findings, 
 This blog is directed to medical institutions and medical informaticians so that electronic health records can keep advancing, helping patients’ experiences become smoother. While countries like Germany, as mentioned, have started implemented similar systems, there are still ways to go to improve it and make it a true EHR.
 
 ## References
+
+1
