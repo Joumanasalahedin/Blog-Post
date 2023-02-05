@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.main-content p {
+  text-indent: 3em;
+  padding-bottom:10px;
+}
+
 .EHR {
   text-align: center;
   color: lightgrey;
