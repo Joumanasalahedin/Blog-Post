@@ -4,8 +4,19 @@
 @import "{{ site.theme }}";
 
 p {
-  text-indent: 3em;
+  text-indent: 2em;
   padding-bottom:10px;
+}
+
+figure {
+  margin: auto;
+}
+
+figcaption {
+  color: dimgrey;
+  font-style: italic;
+  font-weight: bold;
+  padding: 5px;
 }
 
 .EHR {
