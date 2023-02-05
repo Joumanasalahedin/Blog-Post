@@ -6,7 +6,7 @@
 
 <figure>
   <img src="images/EHR.jpg" alt="EHR">
-  <figcaption>Image courtesy of GHP</figcaption> [^6]
+  <figcaption>Image courtesy of GHP</figcaption>
 </figure>
 
   However, Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) are terms that have been used interchangeably, thus the main difference isn’t taken into consideration. During a patient’s visit, a chart is created to document their symptoms, vitals, any results for tests conducted, and any medical history relevant. Any medication prescribed is also included in the patient’s chart and it stays within the organization. A digital version of this chart is an Electronic Health Record and it’s stored on the medical institution’s computer system. [^3]
@@ -60,5 +60,3 @@ This blog is directed to medical institutions and medical informaticians so that
 [^3]: [Differences between Electronic Medical Records (EMR) and Electronic Health Records(EHR)](https://prohealthware.com/differences-between-electronic-medical-records-emr-and-electronic-health-records-ehr/)
 [^4]: [EHR and PHR: Digital Records in the German Healthcare System](https://www.gesundheitsindustrie-bw.de/en/article/news/ehr-and-phr-digital-records-in-the-german-healthcare-system)
 [^5]: [Mind the clinical-analytical gap: Electronic Health Records and COVID-19 Pandemic Response](https://doi.org/10.1016/j.jbi.2021.103715)
-6. [Why is Electronic Health Records a Good Idea for Health Care Organizations?](https://www.ghp-news.com/why-is-electronic-health-record-a-good-idea-for-health-care-organisations/)
-7. [Aok auf der E-health-überholspur](https://www.deutsche-apotheker zeitung.de/news/artikel/2017/10/10/aok-auf-der-digitalisierungs-ueberholspur)
