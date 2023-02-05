@@ -1,10 +1,9 @@
-theme: minima
-minima:
-  skin: dark
+remote_theme: pages-themes/dinky@v0.2.0
 title: Digital Health
 description: EMRs by Joumana Salahaldin
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-titles-from-headings
 
 titles_from_headings:
