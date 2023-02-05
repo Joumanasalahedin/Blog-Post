@@ -49,7 +49,7 @@ This blog is directed to medical institutions and medical informaticians so that
 
 ## References
 
-[^1]: [Electronic Medical Record Systems | Digital Healthcare Research](https://digital.ahrq.gov/electronic-medical-record-systems)
+[^1]: [Electronic Medical Record Systems: Digital Healthcare Research](https://digital.ahrq.gov/electronic-medical-record-systems)
 [^2]: [Digitalization of Medical Records](https://www.smart-academy.in/blog/digitalization-of-medical-records/)
 [^3]: [Differences between Electronic Medical Records (EMR) and Electronic Health Records(EHR)](https://prohealthware.com/differences-between-electronic-medical-records-emr-and-electronic-health-records-ehr/)
 [^4]: [EHR and PHR: Digital Records in the German Healthcare System](https://www.gesundheitsindustrie-bw.de/en/article/news/ehr-and-phr-digital-records-in-the-german-healthcare-system)
