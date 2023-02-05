@@ -6,15 +6,17 @@
 
 <figure>
   <img src="images/EHR.jpg" alt="EHR">
-  <figcaption>Image courtesy of GHP [^6]</figcaption>
+  <figcaption>Image courtesy of GHP</figcaption>
 </figure>
 
   However, Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) are terms that have been used interchangeably, thus the main difference isn’t taken into consideration. During a patient’s visit, a chart is created to document their symptoms, vitals, any results for tests conducted, and any medical history relevant. Any medication prescribed is also included in the patient’s chart and it stays within the organization. A digital version of this chart is an Electronic Health Record and it’s stored on the medical institution’s computer system. [^3]
 
 Electronic Health Records include all the above and more. It is a digital record of a patient’s medical journey is the way I like to put it. It includes the patient’s chart for every visit, along side past medical history, any allergies, all lab data conducted, imaging reports, and more. While this digital record is used by an institution’s computer system, it is stored in a system that can be shared and accessed with all medical providers, ones that are part of the patient’s care. Therefore, any hospital, clinic, medical office, etc can access a patient’s medical information as the patent visits them [^3].
 
-![Framework for EHR](images/Framework_EHR.jpg)
-*Image courtesy of the Journal of Biomedical Informatics [^5]*
+<figure>
+  <img src="images/Framework_EHR.jpg" alt="Framework for EHR">
+  <figcaption>Image courtesy of the Journal of Biomedical Informatics</figcaption>
+</figure>
 
 ## COVID’s Impact on EHRs
 Countries all around the world were faced with challenges when the pandemic hit, some were prepared, and some weren’t. How and why that was the case comes down to many different reasons, but one thing that changed is their computer systems. United States’ California hospitals are one example of this need for change. 
@@ -43,8 +45,10 @@ Germany has 2 types of health records: elektronische Gesundheitsakte, eGA which 
 
 The German Social Security Code (§ 291a SGB V) requests that “data findings, diagnoses. Therapeutic measures, treatment reports and vaccinations for cross-case and multi-patient documentation about the patient” be stored in EHRs. The top 3 PHR systems being used in Germany are: TK-Safe, Vivy, and AOK-Gesundheitsnetzwerk. All 3 systems aren’t approved EHRs by Gematik as they don’t comply with § 291a SGB V [^4].
 
-![AOK-Gesundheit](images/AOK.png)
-*Image courtesy of DAZ.online [^7]*
+<figure>
+  <img src="images/AOK.png" alt="AOK-Gesundheit app">
+  <figcaption>Image courtesy of DAZ.online</figcaption>
+</figure>
 
 ## Target Audience
 This blog is directed to medical institutions and medical informaticians so that electronic health records can keep advancing, helping patients’ experiences become smoother. While countries like Germany, as mentioned, have started implemented similar systems, there are still ways to go to improve it and make it a true EHR.
@@ -56,5 +60,5 @@ This blog is directed to medical institutions and medical informaticians so that
 [^3]: [Differences between Electronic Medical Records (EMR) and Electronic Health Records(EHR)](https://prohealthware.com/differences-between-electronic-medical-records-emr-and-electronic-health-records-ehr/)
 [^4]: [EHR and PHR: Digital Records in the German Healthcare System](https://www.gesundheitsindustrie-bw.de/en/article/news/ehr-and-phr-digital-records-in-the-german-healthcare-system)
 [^5]: [Mind the clinical-analytical gap: Electronic Health Records and COVID-19 Pandemic Response](https://doi.org/10.1016/j.jbi.2021.103715)
-[^6]: [Why is Electronic Health Records a Good Idea for Health Care Organizations?](https://www.ghp-news.com/why-is-electronic-health-record-a-good-idea-for-health-care-organisations/)
-[^7]: [Aok auf der E-health-überholspur](https://www.deutsche-apotheker zeitung.de/news/artikel/2017/10/10/aok-auf-der-digitalisierungs-ueberholspur)
+6. [Why is Electronic Health Records a Good Idea for Health Care Organizations?](https://www.ghp-news.com/why-is-electronic-health-record-a-good-idea-for-health-care-organisations/)
+7. [Aok auf der E-health-überholspur](https://www.deutsche-apotheker zeitung.de/news/artikel/2017/10/10/aok-auf-der-digitalisierungs-ueberholspur)
