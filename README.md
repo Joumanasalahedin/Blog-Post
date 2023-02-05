@@ -5,6 +5,7 @@
   As innovation and advancements arise in every sector, the medical sector isn’t left behind. Electronic health records (EHRs) have come a long way in the past years and the COVID-19 pandemic was a catalyst in countries’ effort in digitalizing their systems. As defined by ISO/DTR 20514, electronic medical records are a ”repository of information regarding the health of a subject of care in computer-processed form that is able to be stored and transmitted securely and is accessible by multiple authorized users.” [^2] 
 
 ![EHR](images/EHR.jpg)
+{:.EHR}
 *Image courtesy of GHP [^6]*
 
   However, Electronic Health Records (EHRs) and Electronic Medical Records (EMRs) are terms that have been used interchangeably, thus the main difference isn’t taken into consideration. During a patient’s visit, a chart is created to document their symptoms, vitals, any results for tests conducted, and any medical history relevant. Any medication prescribed is also included in the patient’s chart and it stays within the organization. A digital version of this chart is an Electronic Health Record and it’s stored on the medical institution’s computer system. [^3]
